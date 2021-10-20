@@ -1,3 +1,3 @@
 # Scrabble
 
-A fun and easy to use scrabble game made in Python.
+Given tiles of letters, create a word and get your score. Made in Python.
